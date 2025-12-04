@@ -1,8 +1,8 @@
-using _2.Models;
+using AutodjaOmanikud.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
-namespace _2.Data
+namespace AutodjaOmanikud
 {
     public class ToodedContext : DbContext
     {

@@ -2,7 +2,7 @@ using AutodjaOmanikud.Models;
 using System;
 using System.Windows.Forms;
 
-namespace _2
+namespace AutodjaOmanikud.Models
 {
     internal static class Program
     {

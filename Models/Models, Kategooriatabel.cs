@@ -1,4 +1,4 @@
-namespace _2.Models
+namespace AutodjaOmanikud.Models
 {
     public class Kategooriatabel
     {
