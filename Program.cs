@@ -1,8 +1,8 @@
-using AutodjaOmanikud.Models;
+using Tooted;
 using System;
 using System.Windows.Forms;
 
-namespace AutodjaOmanikud.Models
+namespace Tooted
 {
     internal static class Program
     {

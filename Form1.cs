@@ -1,13 +1,14 @@
-﻿using AutodjaOmanikud.Models;
-using System;
-using System.Linq;
+﻿using System;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.IO;
 using System.Windows.Forms;
 
-namespace AutodjaOmanikud.Models
+namespace Tooted
 {
     public partial class Form1 : Form
     {
-        private readonly AutoDbContext _db = new();
         public Form1()
         {
             InitializeComponent();

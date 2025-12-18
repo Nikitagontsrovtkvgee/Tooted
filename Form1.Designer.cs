@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace AutodjaOmanikud.Models
+namespace Tooted
 {
     partial class Form1
     {
